@@ -26,7 +26,7 @@
 
 # Where am I deployed?
 
-<enter (https://deploy-this-repo-jared-mori.vercel.app)>
+<enter (https://deploy-this-repo-jared-mori.vercel.app)/>
 
 
 s
